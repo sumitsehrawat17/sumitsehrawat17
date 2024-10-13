@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Sumit Sehrawat
 
 ### 💻 Software Engineer | AI & Backend Development Enthusiast
 
@@ -17,9 +17,7 @@ I'm passionate about creating impactful software with a focus on AI-driven solut
 - Exploring the latest in machine learning and AI research.
 
 ### 📫 How to Reach Me:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- LinkedIn: Your LinkedIn]](https://www.linkedin.com/in/sumit-sehrawat-74a899199/)
 
 ### ⚡ Fun Fact:
 When I'm not coding, you can find me exploring new technologies or geeking out over sci-fi books and movies!
