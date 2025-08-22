@@ -12,9 +12,7 @@ I'm passionate about creating impactful software with a focus on AI-driven solut
 - **DevOps**: Docker, Kubernetes, AWS, CI/CD
 
 ### 🛠️ What I'm Currently Working On:
-- Developing AI-powered applications with a focus on NLP and generative models.
-- Building robust backend systems and optimizing API integrations.
-- Exploring the latest in machine learning and AI research.
+- Working on my dream project 🚀
 
 ### 📫 How to Reach Me:
 - LinkedIn: https://www.linkedin.com/in/sumit-sehrawat-74a899199/
