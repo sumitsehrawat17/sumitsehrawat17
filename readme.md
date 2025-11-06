@@ -13,10 +13,7 @@ I'm passionate about creating impactful software with a focus on AI-driven solut
 
 ### 🛠️ What I'm Currently Working On:
 - Working on my dream project 🚀
-
-### 📫 How to Reach Me:
-- LinkedIn: https://www.linkedin.com/in/sumit-sehrawat-74a899199/
-
+ 
 ### ⚡ Fun Fact:
 When I'm not coding, you can find me exploring new technologies or geeking out over sci-fi books and movies!
 
